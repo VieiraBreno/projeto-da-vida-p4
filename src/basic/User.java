@@ -5,6 +5,8 @@ import java.sql.DriverManager;
 import java.sql.ResultSet;
 import java.sql.Statement;
 
+//Projeto p4 - 
+
 public class User {
 
 	public Connection conectarBD() {
